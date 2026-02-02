@@ -1,11 +1,11 @@
-# 🚀 MerphDev — Learning, Certifications & Projects
+#  MerphDev — Learning, Certifications & Projects
 
 > **Merphy Mademba** — Full Stack | Cybersécurité | DevOps | Data | IA
 > Dakar, Sénégal — [LinkedIn](https://www.linkedin.com/in/merph-dev) | [GitHub](https://github.com/FullStackFlow-dev)
 
 ---
 
-## 📊 CI/CD Status
+##  CI/CD Status
 
 | Pipeline | Status |
 |---|---|
@@ -39,7 +39,7 @@
 
 ---
 
-## 🏆 Certificats & Badges
+##  Certificats & Badges
 
 | Certificat | Organisme | Statut | Lien |
 |---|---|---|---|
@@ -67,7 +67,7 @@
 
 ---
 
-## 🚀 Projets déployés
+##  Projets déployés
 
 | Projet | Description | Déploiement |
 |---|---|---|
@@ -77,7 +77,7 @@
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 Voir la feuille de route détaillée : [docs/ROADMAP.md](docs/ROADMAP.md)
 
