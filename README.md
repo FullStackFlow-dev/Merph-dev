@@ -33,7 +33,8 @@
 ├── models/
 │   └── README.md                  ← Modèles ML (Keras, etc.)
 ├── docs/
-│   └── ROADMAP.md                 ← Feuille de route 2025–2028
+│   ├── ROADMAP.md                 ← Feuille de route 2025–2028
+│   └── vercel-web-analytics-guide.md ← Guide Vercel Web Analytics
 └── README.md                      ← Ce fichier
 ```
 
@@ -74,6 +75,14 @@
 | **ArtéNova Shop** | E-commerce full stack sécurisé | [Vercel Live](https://artenova-shoponline-git-verc-e319a8-fullstackflow-devs-projects.vercel.app/) |
 | **AI Gateway** | Gateway IA multi-modèles | [Vercel Live](https://vercel-ai-gateway-with-braintrust-d-iota.vercel.app/) |
 | **NexusDev Blog** | Blog tech multi-domaines | [Vercel Live](https://nexus-dev-blog-tech-portfolio.vercel.app/) |
+
+---
+
+## 📖 Guides techniques
+
+| Guide | Description |
+|---|---|
+| [Vercel Web Analytics](docs/vercel-web-analytics-guide.md) | Guide complet pour implémenter Vercel Web Analytics sur tous les frameworks |
 
 ---
 
